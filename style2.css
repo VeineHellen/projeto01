@@ -1,0 +1,7 @@
+.cabecalho{
+    border: 5px;
+    border-color: brown;
+    border-style: dashed;
+    margin: 10px;
+    color: white;
+}
