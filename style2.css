@@ -9,10 +9,10 @@
 }
 
 .principal{
-    background-color: blueviolet;
+    background-color:steelblue;
     border: 10px;
     border-color:tomato;
     border-style: double;
     margin: 30px;
-    color: yellow;
+    color:slateblue;
 }
